@@ -1,0 +1,20 @@
+/* styles.css */
+p {
+    background-color: rgb(255, 151, 151);
+    font-family: Verdana, sans-serif;
+}
+
+.line3 {
+    font-size: 24px;
+}
+
+#line2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#line4 {
+    background-color: rgb(132, 255, 132);
+    font-size: 24px;
+    font-weight: bold;
+}

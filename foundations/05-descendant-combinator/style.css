@@ -1,0 +1,11 @@
+/* styles.css */
+div .text{
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}
+
+/* You can combine TYPE and CLASS SELECTORS in the Descendant Conbinator */ 
+/* Other solutions are simply using "div" type selector, 
+and using ".container .text" as a Descendant CLASS Combinator */
